@@ -5,7 +5,7 @@ class MyTest {
 		if ( args.length > 0 ) {
 			System.out.println("\targs provided.");
 			for (int i=0; i<args.length; i++) {
-				System.out.println("\t\t" + args[i])
+				System.out.println("\t\t" + args[i]);
 			}
 		}
 	}
